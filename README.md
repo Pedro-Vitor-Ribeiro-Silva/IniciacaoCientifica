@@ -87,6 +87,8 @@ IniciacaoCientifica-main/
 │   ├── artigos/
 │   │   └── Atividade05-ArtigoFinal.docx # ARTIGO FINAL INTEGRADOR
 │   └── relatorios/
+├── publicacao/                     # Pesquisa de canais de publicação científica
+│   └── tarefa06-publicacao.md
 ├── referencias/                    # Levantamento bibliográfico
 │   ├── bibtex/
 │   │   └── ReferenciasBibliograficas.md
@@ -108,6 +110,21 @@ IniciacaoCientifica-main/
 | Arquitetura consolidada (descrição)        | [`arquitetura/descricao-arquitetura.docx`](arquitetura/descricao-arquitetura.docx) |
 | Diagrama arquitetural                       | [`arquitetura/diagrama.png`](arquitetura/diagrama.png) |
 | Referências bibliográficas                  | [`referencias/bibtex/ReferenciasBibliograficas.md`](referencias/bibtex/ReferenciasBibliograficas.md) |
+
+---
+
+## Entrega da Atividade 06 — Pesquisa de Periódicos e Eventos Científicos
+
+Pesquisa exploratória sobre os canais de publicação científica relacionados ao tema da IC: formas de divulgação, periódicos, congressos e trabalhos correlatos.
+
+| Item | Localização |
+|------|-------------|
+| Documento completo da atividade | [`publicacao/tarefa06-publicacao.md`](publicacao/tarefa06-publicacao.md) |
+
+**Resumo dos veículos identificados:**
+
+- **Periódicos:** REIC (SBC), JISA (SBC/CGI.br/LARC — Qualis A2), IEEE Transactions on Cloud Computing (IEEE).
+- **Eventos:** SBRC (com os workshops WCGA e WTICG), SBSI (trilha NIRE) e SBCARS/CBSoft; complementarmente, a ERES.
 
 ---
 
