@@ -85,10 +85,12 @@ IniciacaoCientifica-main/
 ├── docs/                           # Documentação técnico-científica
 │   ├── apresentacoes/
 │   ├── artigos/
-│   │   └── Atividade05-ArtigoFinal.docx # ARTIGO FINAL INTEGRADOR
+│   │   ├── Atividade05-ArtigoFinal.docx # ARTIGO FINAL INTEGRADOR
+│   │   └── Resumo_Expandido_III_Congresso_UniSENAI_-_Pedro_Vitor.pdf # RESUMO EXPANDIDO (Atividade 07)
 │   └── relatorios/
-├── publicacao/                     # Pesquisa de canais de publicação científica
-│   └── tarefa06-publicacao.md
+├── publicacao/                     # Canais de publicação e submissão em evento científico
+│   ├── tarefa06-publicacao.md
+│   └── tarefa07-congresso.md
 ├── referencias/                    # Levantamento bibliográfico
 │   ├── bibtex/
 │   │   └── ReferenciasBibliograficas.md
@@ -128,16 +130,31 @@ Pesquisa exploratória sobre os canais de publicação científica relacionados 
 
 ---
 
+## Entrega da Atividade 07 — Submissão de Trabalho em Evento Científico
+
+Resumo expandido derivado do projeto de IC, preparado para submissão ao **III Congresso UniSENAI-SP de Educação, Tecnologia e Inovação** (04 e 05/12/2026, SENAI São Caetano do Sul, formato híbrido), sob orientação do Prof. Deivison Shindi Takatu.
+
+| Item | Localização |
+|------|-------------|
+| Registro da atividade (cronograma, status e checklist) | [`publicacao/tarefa07-congresso.md`](publicacao/tarefa07-congresso.md) |
+| Resumo expandido (PDF) | [`docs/artigos/Resumo_Expandido_III_Congresso_UniSENAI_-_Pedro_Vitor.pdf`](docs/artigos/Resumo_Expandido_III_Congresso_UniSENAI_-_Pedro_Vitor.pdf) |
+
+**Trabalho:** *Arquitetura Orientada a Eventos em Nuvem: uma proposta baseada em serviços AWS para aplicações escaláveis*.
+
+**Situação:** enviado ao orientador para revisão em 18/09/2026 · submissão no evento até 25/09/2026 · inscrição na modalidade **Apresentador Online**. O andamento de cada etapa é atualizado no registro da atividade.
+
+---
+
 ## Referências Principais
 
-- ALMEIDA, J. A. et al. **Guia interativo de boas práticas em Engenharia de Software**. Revista Principia, 2018.
-- CORDEIRO, A. F. R. et al. **Arquitetura de microsserviços: uma revisão multivocal**. ERES, 2024.
+- ALMEIDA, J. A. et al. **Guia interativo de boas práticas em Engenharia de Software**. Revista Principia, 2019.
+- COSTA, R. F.; ANTONELLI, H. L. **Modernização de arquitetura de sistemas: uma abordagem para transformação digital no sistema financeiro**. ERI-ES, 2025.
 - DEPRÁ, T. G. B. et al. **Estudo exploratório sobre o uso da arquitetura de microsserviços na indústria de software**. REIC, 2021.
-- ESCOLA REGIONAL DE INFORMÁTICA DE MATO GROSSO. **Modernização de arquitetura de sistemas: uma abordagem baseada em microsserviços**. ERI-MT, 2024.
 - GARCIA, V. C. **Padrões de arquitetura para escalabilidade: uma perspectiva prática**, 2023.
-- IMPACTOS da computação em nuvem na arquitetura de software. **Revista Tópicos**, 2024.
+- MORAIS, L. Z.; CORDEIRO, A. F. R.; OLIVEIRAJR, E. **Arquitetura de microsserviços: uma revisão multivocal**. ERES, 2025.
+- PORTO, I. O. **Padrões e diretrizes arquiteturais para escalabilidade de sistemas**. UFU, 2009.
 - PRESTES, A. N. et al. **Uma arquitetura de microsserviços para análise de dados de mobilidade urbana**. SBRC, 2021.
-- SILVA, I. P. A. **Padrões e diretrizes arquiteturais para escalabilidade**. UFU, 2013.
+- RAPÔSO, C. F. L.; COSTA JUNIOR, O. G.; FERREIRA, A. S. **Impactos da computação em nuvem na arquitetura de software: uma análise de literatura**. Revista Tópicos, 2024.
 - VILLAÇA, L.; AZEVEDO, L. **Uma arquitetura de microsserviços orientada a eventos para integração de dados**. SBSI, 2018.
 
 > A lista completa de referências (mais de 15 trabalhos) encontra-se em [`referencias/bibtex/ReferenciasBibliograficas.md`](referencias/bibtex/ReferenciasBibliograficas.md) e na seção *Referências* do [artigo final](docs/artigos/Atividade05-ArtigoFinal.docx).
@@ -146,4 +163,4 @@ Pesquisa exploratória sobre os canais de publicação científica relacionados 
 
 ## Autor
 
-**Pedro** — Disciplina de Iniciação Científica.
+**Pedro Vitor Ribeiro Silva** — Tecnologia em Análise e Desenvolvimento de Sistemas, SENAI "Gaspar Ricardo Júnior" (Sorocaba-SP). Disciplina de Iniciação Científica, sob orientação do Prof. Deivison Shindi Takatu.
