@@ -90,7 +90,8 @@ IniciacaoCientifica-main/
 │   └── relatorios/
 ├── publicacao/                     # Canais de publicação e submissão em evento científico
 │   ├── tarefa06-publicacao.md
-│   └── tarefa07-congresso.md
+│   ├── tarefa07-congresso.md
+│   └── tarefa08-banner/            # Banner científico (versão preliminar): PDF, editável e README
 ├── referencias/                    # Levantamento bibliográfico
 │   ├── bibtex/
 │   │   └── ReferenciasBibliograficas.md
@@ -142,6 +143,20 @@ Resumo expandido derivado do projeto de IC, preparado para submissão ao **III C
 **Trabalho:** *Arquitetura Orientada a Eventos em Nuvem: uma proposta baseada em serviços AWS para aplicações escaláveis*.
 
 **Situação:** enviado ao orientador para revisão em 18/09/2026 · submissão no evento até 25/09/2026 · inscrição na modalidade **Apresentador Online**. O andamento de cada etapa é atualizado no registro da atividade.
+
+---
+
+## Entrega da Atividade 08 — Preparação do Banner Científico
+
+Versão **preliminar** do banner (pôster) do projeto de IC para o **III Congresso UniSENAI-SP**, montada a partir do resumo expandido da Tarefa 07. Como o evento ainda não divulgou um modelo oficial de banner, foi usado um modelo **provisório** (pôster A0 retrato), a ser adaptado quando saírem as orientações oficiais.
+
+| Item | Localização |
+|------|-------------|
+| Registro da atividade (template, justificativa visual e pendências) | [`publicacao/tarefa08-banner/README.md`](publicacao/tarefa08-banner/README.md) |
+| Banner em PDF | [`publicacao/tarefa08-banner/banner-v1.pdf`](publicacao/tarefa08-banner/banner-v1.pdf) |
+| Banner editável (PowerPoint) | [`publicacao/tarefa08-banner/banner-v1.pptx`](publicacao/tarefa08-banner/banner-v1.pptx) |
+
+> **Versão preliminar:** dimensões, cores e elementos visuais são provisórios e **não** representam regras oficiais do congresso. Não imprimir antes de confirmar as orientações da comissão organizadora.
 
 ---
 
